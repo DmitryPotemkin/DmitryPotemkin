@@ -37,6 +37,7 @@
 </div>
 
 <div id="stat" align = "center">
+    <h3>Statistics</h3>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryPotemkin&theme=github_dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryPotemkin&theme=github_dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryPotemkin&theme=github_dark"/>
