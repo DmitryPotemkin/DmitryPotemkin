@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-<a href="https://t-do.ru/@lBWSl">
+<a href="https://t.me/lBWSl">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 <a href="https://vk.com/id166934280">
@@ -18,7 +18,7 @@
 ### About me
 - 🌱 I'm currently learning **Python, Data analysis, Machine learning, Web3**
 - 🔭 I am currently studying at the Master's program of Saint Petersburg State University of Aerospace Instrumentation at the direction: 'Systems with Artificial Intelligence'
-- 📫 How to reach me: [Telegram](https://t-do.ru/@lBWSl), [VK](https://vk.com/id166934280), [Gmail](mailto:dmitry.potemkin@gmail.com)
+- 📫 How to reach me: [Telegram](https://t.me/lBWSl), [VK](https://vk.com/id166934280), [Gmail](mailto:dmitry.potemkin@gmail.com)
 - 🌍 I speak Russian. I speak English at a level sufficient to read technical documentation
 
 ### Languages and tools
