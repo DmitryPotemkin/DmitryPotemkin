@@ -34,6 +34,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" width="50" height="50"/>&nbsp;
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryPotemkin&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryPotemkin&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryPotemkin&theme=github_dark)
+
 <div id="stat" align = "center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryPotemkin&theme=github_dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryPotemkin&theme=github_dark"/>
