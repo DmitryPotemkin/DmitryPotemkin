@@ -21,7 +21,7 @@
 - 📫 How to reach me: [Telegram](https://t.me/lBWSl), [VK](https://vk.com/id166934280), [Gmail](mailto:dmitry.potemkin@gmail.com)
 - 🌍 I speak Russian. I speak English at a level sufficient to read technical documentation
 
-<div id="tools" align = "center" style="background-color: #ff0000">
+<div id="tools" align = "center">
 <h3>Languages and tools</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>&nbsp;
