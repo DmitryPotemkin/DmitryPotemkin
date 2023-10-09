@@ -15,7 +15,7 @@
 </a>
 </div>
 
-### <h3 align="center">About mes</h3>
+### <h3 align="center">About me</h3>
 - 🌱 I'm currently learning **Python, Data analysis, Machine learning, Web3**
 - 🔭 I am currently studying at the Master's program of Saint Petersburg State University of Aerospace Instrumentation at the direction: 'Systems with Artificial Intelligence'
 - 📫 How to reach me: [Telegram](https://t.me/lBWSl), [VK](https://vk.com/id166934280), [Gmail](mailto:dmitry.potemkin@gmail.com)
